@@ -1,6 +1,6 @@
 {
-  "name": "react-native-pull-refresh",
-  "version": "1.0.0",
+  "name": "@landandan/react-native-pull-refresh",
+  "version": "1.0.1",
   "description": "Custom pull to refresh component for Android",
   "main": "index.js",
   "scripts": {
@@ -20,15 +20,15 @@
     "url": "https://github.com/NadiKuts/react-native-pull-refresh/issues"
   },
   "dependencies": {
-    "react-test-renderer": "16.0.0",
     "lottie-react-native": "2.2.0",
+    "prop-types": "^15.6.1",
     "react": "16.0.0",
     "react-native": "0.55.0",
-    "prop-types": "^15.6.1"
+    "react-test-renderer": "16.0.0"
   },
   "devDependencies": {
     "babel-jest": "20.0.3",
     "babel-preset-react-native": "3.0.0",
-    "jest": "20.0.4",
+    "jest": "20.0.4"
   }
 }
